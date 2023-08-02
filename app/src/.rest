@@ -1,0 +1,8 @@
+
+
+### admin get users datad link
+GET  http://localhost:3000/signup
+content-type: application/json
+
+
+
